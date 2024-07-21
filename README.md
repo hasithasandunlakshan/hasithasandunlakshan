@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="96">
@@ -71,4 +71,4 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
