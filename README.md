@@ -8,7 +8,7 @@
 
 ### Tech Stack
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-rows: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
   <div style="text-align: center; width: 100px;">
     <a href="https://www.javascript.com/">
       <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/>
