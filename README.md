@@ -13,7 +13,7 @@
     <a href="https://www.javascript.com/">
       <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/>
     </a>
-    <p style="font-size: 12px; text-align: center;">JavaScript</p>
+ 
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <a href="https://reactjs.org/">
