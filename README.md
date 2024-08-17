@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects related to web development and machine learning.
 - 📫 How to reach me: [Email](mailto:hasiofficial2002@gmail.com) | [LinkedIn](www.linkedin.com/in/hasitha-sandun-69b0562a0)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love music!
+
 
 ### Tech Stack
 
