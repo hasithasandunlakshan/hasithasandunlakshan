@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning React.js, Next.js, and advanced JavaScript.
 - 💞️ I’m looking to collaborate on open source projects related to web development and machine learning.
 - 📫 How to reach me: [Email](mailto:hasiofficial2002@gmail.com) | [LinkedIn](www.linkedin.com/in/hasitha-sandun-69b0562a0)
-- 😄 Pronouns: He/Him
-
-
+  
 ### Tech Stack
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
