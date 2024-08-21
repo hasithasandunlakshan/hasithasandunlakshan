@@ -1,9 +1,12 @@
 # Hi 👋, I’m Hasitha Sandun Lakshan
 
-- 👀 I’m interested in web development and open source projects.
-- 🌱 I’m currently learning React.js, Next.js, and advanced JavaScript.
-- 💞️ I’m looking to collaborate on open source projects related to web development and machine learning.
-- 📫 How to reach me: [Email](mailto:hasiofficial2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hasitha-sandun-69b0562a0)
+I’m interested in web development 🌐, open source projects 🔍, Unity game development 🎮, and mobile app development 📱. 
+
+I’m currently learning Unity 🧠 and looking to collaborate on open source projects related to web development 🌟, game development 🎮, and mobile app development 📱.
+
+Feel free to reach out to me via [email](mailto:hasiofficial2002@gmail.com) 📧 or connect with me on [LinkedIn](https://www.linkedin.com/in/hasitha-sandun-69b0562a0) 💼. 
+
+I’m excited to connect and collaborate!
 
 ## Tech Stack
 
