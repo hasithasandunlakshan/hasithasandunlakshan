@@ -61,4 +61,16 @@
     </a>
     <p style="font-size: 12px;">Expo</p>
   </div>
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #ddd;">
+    <a href="https://firebase.google.com/">
+      <img src="https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase&logoColor=FFCA28" height="40"/>
+    </a>
+    <p style="font-size: 12px;">Firebase</p>
+  </div>
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 1px solid #ddd;">
+    <a href="https://reactnative.dev/">
+      <img src="https://img.shields.io/badge/-React_Native-FFFFFF?style=flat&logo=react&logoColor=61DAFB" height="40"/>
+    </a>
+    <p style="font-size: 12px;">React Native</p>
+  </div>
 </div>
