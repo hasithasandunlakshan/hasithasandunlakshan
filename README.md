@@ -34,5 +34,3 @@ Here’s a snapshot of my GitHub activity:
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=hasithasandunlakshan&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 
-
-
