@@ -31,7 +31,7 @@ Here’s a snapshot of my GitHub activity:
 ![Hasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasithasandunlakshan&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasithasandunlakshan&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasithasandunlakshan&theme=dark)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/pin/?username=hasithasandunlakshan&repo=github-readme-stats)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=hasithasandunlakshan&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 
 
