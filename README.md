@@ -6,71 +6,71 @@
 
 ### Tech Stack
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; align-items: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://www.javascript.com/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/>
+      <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">JavaScript</p>
+    <p style="color: #fff; font-size: 12px;">JavaScript</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://reactjs.org/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=react&logoColor=61DAFB" height="40"/>
+      <img src="https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">React</p>
+    <p style="color: #fff; font-size: 12px;">React</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://nextjs.org/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=nextdotjs&logoColor=000000" height="40"/>
+      <img src="https://img.shields.io/badge/-Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=000000" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">Next.js</p>
+    <p style="color: #fff; font-size: 12px;">Next.js</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://nodejs.org/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933" height="40"/>
+      <img src="https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=nodedotjs&logoColor=339933" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">Node.js</p>
+    <p style="color: #fff; font-size: 12px;">Node.js</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://www.mongodb.com/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=mongodb&logoColor=47A248" height="40"/>
+      <img src="https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb&logoColor=47A248" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">MongoDB</p>
+    <p style="color: #fff; font-size: 12px;">MongoDB</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://www.mysql.com/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=mysql&logoColor=4479A1" height="40"/>
+      <img src="https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">MySQL</p>
+    <p style="color: #fff; font-size: 12px;">MySQL</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://tailwindcss.com/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=tailwind-css&logoColor=38B2AC" height="40"/>
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-FFFFFF?style=flat&logo=tailwind-css&logoColor=38B2AC" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">Tailwind CSS</p>
+    <p style="color: #fff; font-size: 12px;">Tailwind CSS</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=typescript&logoColor=007ACC" height="40"/>
+      <img src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=007ACC" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">TypeScript</p>
+    <p style="color: #fff; font-size: 12px;">TypeScript</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://expo.dev/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=expo&logoColor=000020" height="40"/>
+      <img src="https://img.shields.io/badge/-Expo-FFFFFF?style=flat&logo=expo&logoColor=000020" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">Expo</p>
+    <p style="color: #fff; font-size: 12px;">Expo</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://firebase.google.com/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=firebase&logoColor=FFCA28" height="40"/>
+      <img src="https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase&logoColor=FFCA28" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">Firebase</p>
+    <p style="color: #fff; font-size: 12px;">Firebase</p>
   </div>
-  <div style="background-color: #1e1e1e; border: 1px solid #fff; padding: 10px; border-radius: 8px; text-align: center;">
+  <div style="text-align: center; width: 120px; height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: #000; border: 2px solid #fff; border-radius: 10px;">
     <a href="https://reactnative.dev/">
-      <img src="https://img.shields.io/badge/-FFFFFF?style=flat&logo=react&logoColor=61DAFB" height="40"/>
+      <img src="https://img.shields.io/badge/-React_Native-FFFFFF?style=flat&logo=react&logoColor=61DAFB" height="40"/>
     </a>
-    <p style="color: #fff; font-size: 14px;">React Native</p>
+    <p style="color: #fff; font-size: 12px;">React Native</p>
   </div>
 </div>
