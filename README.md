@@ -7,8 +7,10 @@ I’m currently learning Unity 🧠 and looking to collaborate on open source pr
 Feel free to reach out to me via [email](mailto:hasiofficial2002@gmail.com) 📧 or connect with me on [LinkedIn](https://www.linkedin.com/in/hasitha-sandun-69b0562a0) 💼. 
 
 I’m excited to connect and collaborate!
+![Profile Views](https://komarev.com/ghpvc/?username=hasithasandunlakshan&color=blue&style=flat-square&label=Profile+Views)
 
 ## Tech Stack
+
 
 Here are some of the technologies and tools I use:
 
